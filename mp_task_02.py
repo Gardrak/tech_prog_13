@@ -146,17 +146,17 @@ if __name__ == '__main__':
 --------sequence---------
 fibonacci = 7
 trapezoidal_rule = 2.000000000000087
-sequence time:  5.23 seconds
+sequence time:  5.35 seconds
 
 ---------threads--------
 fibonacci = 7
 trapezoidal_rule = 2.000000000000087
-threads time:  5.16 seconds
+threads time:  5.39 seconds
 
 ---------processes--------
 fibonacci = 7
 trapezoidal_rule = 2.000000000000087
-processes time:  5.25 seconds
+processes time:  5.29 seconds
 
 --------asyncio---------
 fibonacci = 7
